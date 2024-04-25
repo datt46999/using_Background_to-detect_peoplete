@@ -1,6 +1,6 @@
 **Description**:  this project using Backgound Subtraction Algorithm to detect people from video.
 
-**Libary:** cv2
+**Library:** cv2
 
 **Setting and run:**
 + We need python enviroment in my computer.
